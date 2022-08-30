@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./images/banner.png" height="100px" margin="0 auto">
+  <img src="https://raw.githubusercontent.com/Oipie/.github/main/profile/images/banner.png" height="100px" margin="0 auto">
   <br>
   <br>
 </p>
