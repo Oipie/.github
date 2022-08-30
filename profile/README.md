@@ -14,4 +14,4 @@ Start making healthy recepies with Oipie, the app that allows you to find, share
 
 Oipie is powered by [Acid Tango](https://acidtango.com/), a digital product design and development studio. Feel free to text us thorugh or website or social media!
 
-👋  [@TwitterOSS](https://twitter.com/acidtango)
+👋  [@AcidTango](https://twitter.com/acidtango)
