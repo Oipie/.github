@@ -1,4 +1,8 @@
-[Oipie](./images/banner.png)
+<p align="center">
+  <img src="./images/banner.png" height="100px" margin="0 auto">
+  <br>
+  <br>
+</p>
 
 Start making healthy recepies with Oipie, the app that allows you to find, share and create cooking recepies!
 
